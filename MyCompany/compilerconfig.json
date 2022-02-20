@@ -1,0 +1,7 @@
+﻿//Преобразование SASS файла со стилями сайта, предоставленный HTML5-макетом, в CSS файл
+[
+    {
+        "outputFile": "wwwroot/css/main.css",
+        "inputFile": "wwwroot/sass/main.scss"
+    }
+]
